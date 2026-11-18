@@ -1,0 +1,6 @@
+{
+  "name": "Aperture Vision",
+  "description": "AI-powered computer vision platform with real-time object detection, image analysis, live camera tracking, and an interactive Gemini assistant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
